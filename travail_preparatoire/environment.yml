@@ -1,0 +1,10 @@
+name: PIP_2022
+dependencies:
+  - python=3.8.12  
+  - pandas
+  - scipy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - numpy=1.19.5
+  - sdv=0.13.0
