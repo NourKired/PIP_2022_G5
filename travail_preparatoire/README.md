@@ -30,11 +30,11 @@ Si vous rencontrez des soucis n'hésitez pas à me contacter, je suis conscient 
 
 
 <div align="center">
-    <img src="../images/BP_1_1.png"  >
-    <img src="../images/BP_1_2.png"  >
+    <img src="../images/BP_1_1.png" height="300" >
+    <img src="../images/BP_1_2.png "height="230" >
     <br/>
     <br/>
-    <img src="../images/BP_2.JPG"  >
+    <img src="../images/BP_2.JPG"  height="320">
 
 </div>
 
