@@ -27,3 +27,16 @@ Si vous rencontrez des soucis n'hésitez pas à me contacter, je suis conscient 
 
 #  Brown papers
 
+
+
+<div align="center">
+    <img src="../images/BP_1_1.png"  >
+    <img src="../images/BP_1_2.png"  >
+    <br/>
+    <br/>
+    <img src="../images/BP_2.JPG"  >
+
+</div>
+
+<br/>
+<br/>

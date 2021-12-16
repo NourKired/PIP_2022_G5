@@ -1,6 +1,5 @@
 <div align="center">
     <img src="images/logoSIDbigdata.png" alt="Logo" >
-  </a>
 </div>
 
 <br/>
