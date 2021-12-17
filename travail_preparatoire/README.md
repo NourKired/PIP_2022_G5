@@ -28,13 +28,19 @@ Si vous rencontrez des soucis n'hésitez pas à me contacter, je suis conscient 
 #  Brown papers
 
 
-
+## Brown paper 1
 <div align="center">
     <img src="../images/BP_1_1.png" height="300" >
+</div>
+<div align="center">
     <img src="../images/BP_1_2.png "height="230" >
-    <br/>
-    <br/>
+</div>
+
+## Brown paper 2 
+
+<div align="center">
     <img src="../images/BP_2.JPG"  height="320">
+</div>
 
 </div>
 

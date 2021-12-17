@@ -16,6 +16,10 @@ Projet de Cody Nash pour le génération de donnée en lien avec notre sujet :
 * github de son projet : [Generative Adversarial Networks (GANs) for Credit Card Fraud Data](https://github.com/codyznash/GANs_for_Credit_Card_Data)
 * son notebook : [GAN comparison on Kaggle Credit Card Fraud Data](https://nbviewer.org/github/codyznash/GANs_for_Credit_Card_Data/blob/master/GAN_comparisons.ipynb)
 
+## Variational Autoencoders
+
+* [A Tutorial on Variational Autoencoders with a Concise Keras Implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/)
+* [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 # Documentation des librairies 
 
