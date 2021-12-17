@@ -1,8 +1,8 @@
 # Travail préparatoire 
-Dans ce dossier vous trouverez différentes lectures et documentations qui vous permettront de mieux comprendre les méthodes et outils que nous utiliserons durant notre projet dans le fichier **lecture.md**. 
+Dans ce dossier vous trouverez différentes lectures et documentations qui vous permettront de mieux comprendre les méthodes et outils que nous utiliserons durant notre projet dans le fichier [lecture.md](./lecture.md). 
 
 Vous trouverez aussi 3 notebooks : 
-* **exploratory_data_analysis.ipynb :** Exemple simple d'analyse d'un jeu de donnée afin de résumer ses principales caractéristiques à l'aide de visualisations. 
+* **exploratory_data_analysis.ipynb :** Exemple simple d'analyse d'un jeu de donnée afin de résumer ses principales caractéristiques à l'aide de visualisations. (Sur GitHub la visualisation de la description des variables en table markdown ne fonctionne pas, mais une fois le notebook téléchargé l'affichage est bon)
 *   **preprocessing_and_classification.ipynb :**  Dans ce notebook je vous présente quelques outils basique de prétraitement des données, suivi d'un exemple simple de création d'un modèle de classification supervisé. 
 * **generate_data.ipynb :** Ici je vous propose un exemple de génération de données ( univarié, multivarié ) à l'aide de différentes librairies python. 
 
