@@ -3,7 +3,7 @@ Dans ce dossier vous trouverez différentes lectures et documentations qui vous 
 
 Vous trouverez aussi 3 notebooks : 
 * **exploratory_data_analysis.ipynb :** Exemple simple d'analyse d'un jeu de donnée afin de résumer ses principales caractéristiques à l'aide de visualisations. 
-*   **preprocessing_and_classification.ipynb :**  Dans ce notebook je vous présente quelques outils basique de prétraitement des données, suivi d'un exemple simple de création d'un modèle de classification supervisé. 
+*   **preprocessing_and_classification.ipynb :**  Dans ce notebook je vous présente quelques outils basiques de prétraitement des données, suivi d'un exemple simple de création d'un modèle de classification supervisé. 
 * **generate_data.ipynb :** Ici je vous propose un exemple de génération de données ( univarié, multivarié ) à l'aide de différentes librairies python. 
 
 Dans chacun d'eux vous avez la possibilité d'ajouter du code,  d'améliorer les résultats obtenus afin de prendre en main les outils que nous allons utiliser durant le projet. 
